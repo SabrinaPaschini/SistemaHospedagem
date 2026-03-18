@@ -1,0 +1,22 @@
+// criar classes, 
+
+pessoa - nome, sobrenome; ok 
+
+suite - tipo da suite, capacidade, valor da diaria; ok 
+
+reserva - hospedes, suite, dias reservados; ok 
+
+Metodos da reserva: 
+
+- cadastrar hospedes();  ok 
+- cadastrar suite (); ok 
+
+- obter quantidade de hospedes list <Pessoa> ok 
+
+- calcular valor da diaria( dias * valor da suite);  ok 
+
+-- faltam, validações. 
+
+
+
+
